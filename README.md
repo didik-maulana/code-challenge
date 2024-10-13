@@ -1,6 +1,11 @@
 # Code Challenge
 Welcome to the Code Challenge repository! This repository contains my solutions to various coding challenges from platforms like LeetCode, HackerRank, and others. The goal of this repository is to document my learning process, improve my problem-solving skills, and share insights with fellow developers.
 
+## 🧠 Why This Repository?
+- Practice: Improve problem-solving and coding skills.
+- Documentation: Keep track of solved problems for future reference.
+- Sharing: Help others by sharing solutions and approaches to different problems.
+
 ## 📚 Content Overview
 This repository is organized by problem type and platform:
 - [LeetCode](https://leetcode.com/)
@@ -17,11 +22,6 @@ git clone https://github.com/yourusername/code-challenge.
 ```
 2. Navigate to the platform folder (e.g., leetcode, hackerrank).
 3. Run and test the solutions in the platform website or in your local environment.
-
-## 🧠 Why This Repository?
-- Practice: Improve problem-solving and coding skills.
-- Documentation: Keep track of solved problems for future reference.
-- Sharing: Help others by sharing solutions and approaches to different problems.
 
 ## 🧩 Code Challenge Solutions
 ### ✅ HackerRank
