@@ -4,7 +4,9 @@
 // Space Complexity: O(n)
 func staircase(n: Int) {
     for index in 1...n {
-      print(String(repeating: " ", count: n-index) + String(repeating: "#", count: index))
+        let spaces = String(repeating: " ", count: n-index)
+        let hashes = String(repeating: "#", count: index)
+        print(spaces + hashes)
     }
 }
 
