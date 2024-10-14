@@ -1,6 +1,6 @@
 
 // Solution 1
-// Time Complexity: O(n)
+// Time Complexity: O(n2)
 // Space Complexity: O(n)
 func staircase(n: Int) -> Void {
     for index in 1...n {
