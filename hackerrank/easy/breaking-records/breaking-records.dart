@@ -3,12 +3,11 @@
 List<int> breakingRecords(List<int> scores) {
   int minRecord = 0;
   int maxRecord = 0;
+
   int lowest = scores[0];
   int highest = scores[0];
 
-  for (int index = 0; index < scores.length; index++) {
-    int score = scores[index];
-
+  for (int score in scores) {
     if (score < lowest) {
       minRecord++;
       lowest = score;
