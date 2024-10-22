@@ -29,6 +29,7 @@ git clone https://github.com/yourusername/code-challenge.
 |---|---|---|---|
 | Staircase | Easy| [Link](https://www.hackerrank.com/challenges/staircase/problem) | [Link](https://github.com/didik-maulana/code-challenge/blob/main/hackerrank/easy/staircase) |
 | Breaking the Records | Easy| [Link](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Link](https://github.com/didik-maulana/code-challenge/blob/main/hackerrank/easy/breaking-records) |
+| Angry Professor | Easy| [Link](https://www.hackerrank.com/challenges/angry-professor/problem) | [Link](https://github.com/didik-maulana/code-challenge/blob/main/hackerrank/easy/angry-professor) |
 
 ## 💬 Contributing
 Feel free to fork this repository, open issues, or submit pull requests if you'd like to contribute, suggest improvements, or discuss solutions.
