@@ -24,6 +24,11 @@ git clone https://github.com/yourusername/code-challenge.
 3. Run and test the solutions in the platform website or in your local environment.
 
 ## 🧩 Code Challenge Solutions
+### ✅ LeetCode
+| Problems | Difficulty | Challenge | Solution |
+|---|---|---|---|
+| Roman to Integer | Easy| [Link](https://leetcode.com/problems/roman-to-integer/) | [Link](https://github.com/didik-maulana/code-challenge/blob/main/leetcode/easy/roman-to-integer) |
+
 ### ✅ HackerRank
 | Problems | Difficulty | Challenge | Solution |
 |---|---|---|---|
